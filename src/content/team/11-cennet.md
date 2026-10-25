@@ -4,6 +4,7 @@ role: "Postdoctoral Researcher"
 group: postdoc
 order: 3
 photo: "/team/cennet.jpg"
+cartoon: "/team/cennet_cartoon.jpg"
 researchFocus: "Vision-language-action models: how robots use vision and language to carry out tasks."
 scholarUrl: "https://scholar.google.com/citations?user=xMnsNJoAAAAJ"
 
