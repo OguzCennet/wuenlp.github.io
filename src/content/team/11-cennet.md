@@ -6,7 +6,7 @@ order: 3
 photo: "/team/cennet.jpg"
 cartoon: "/team/cennet_cartoon.jpg"
 researchFocus: "Vision-language-action models: how robots use vision and language to carry out tasks."
-scholarUrl: "https://scholar.google.com/citations?user=xMnsNJoAAAAJ"
+scholarUrl: "https://oguzcennet.github.io"
 
 bio: >-
   Cennet works on vision-language-action (VLA) models, studying how robots
